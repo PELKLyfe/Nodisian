@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "policy_id": "nodesian-governance-v3.1-hardened",
+  "engine": {
+    "condition_language": "jmespath"
+  },
+  "freshness_sla": {
+    "DAG": {
+      "ttl_minutes": 10080
+    },
+    "MRF": {
+      "ttl_minutes": 1440
+    },
+    "Risk": {
+      "ttl_minutes": 15
+    }
+  },
+  "commands": {},
+  "automations": []
+}
