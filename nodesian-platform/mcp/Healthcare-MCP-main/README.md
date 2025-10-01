@@ -1,5 +1,3 @@
-![image info](./images/Innovaccer_HMCP_Github_banner.png)
-
 # Healthcare Model Context Protocol (HMCP)
 
 **_An open protocol enabling communication and interoperability between healthcare agentic applications._**
